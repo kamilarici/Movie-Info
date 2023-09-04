@@ -1,11 +1,40 @@
-## Welcome to My Project! 👋
 
 
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Movie Info Card</h1></summary>
+  </ul>
+</div>
 
-## Feedback and Collaboration
-I value your feedback and suggestions. If you have any comments, questions, or ideas for improvement regarding this project or any of my other projects, please don't hesitate to reach out. I'm always open to collaboration and welcome the opportunity to work on exciting projects together.
-
-Thank you once again for visiting my project. I hope you have a wonderful experience exploring it, and I look forward to connecting with you soon!
+<table>
+   <thead>
+        <tr>
+            <th>What's used in this app ?</th>
+            <th>How to run ?</th>
+            <th>Author</th>
+        </tr>
+    </thead>
+  <tbody>
+  <tr>
+    <td> 
+      <li> React  
+      <li> Bootstrap
+      <li> Html
+      <li> Javascript
+    </td>
+    <td>  <h4>Once you clone the project</h4>  
+      
+ 1) run  `pnpm install`  or `yarn install` for node modules
+ 2) run `pnpm start` or `yarn start` for open development stage
+    
+   </td>
+    <td> <li> <a href="https://github.com/kamilarici" target="_blank">Take a look at my other projects</a> <li> <a href="https://www.linkedin.com/in/kamil-arici/" target="_blank">Visit me on Linkedin</a> 
+  </tr>
+  <tr>
+    <td colspan="3"><h3>What is this project about ?</h3> 
+<p>
+This project basically show the info for movies, so you can click the button to see other movie infos.
+</p>
 
 
 
